@@ -1,10 +1,9 @@
 ---
-title: "My title"
+title: "logistic modelling"
 subtitle: "My subtitle if needed"
 author: 
-  - First author
-  - Another author
-thanks: "Code and data are available at: LINK."
+  - Hyuk Jang
+thanks: "https://github.com/anggimude/politics."
 date: today
 date-format: long
 abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
